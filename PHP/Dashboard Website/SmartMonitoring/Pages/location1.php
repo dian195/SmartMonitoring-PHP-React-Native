@@ -454,7 +454,7 @@
 
                 chart.updateSeries([chartData]);
                 chart2.updateSeries([chartData2]);
-                chart3.updateSeries([chartData3]);
+                //chart3.updateSeries([chartData3]);
                 chart4.updateSeries([chartData4]);
                 chart5.updateSeries([chartData5]);
 
