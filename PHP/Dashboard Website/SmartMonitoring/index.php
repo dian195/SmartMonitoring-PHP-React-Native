@@ -48,7 +48,7 @@
                     <div class="side-content">
                         <ul class="nav-main">
                             <li>
-                                <a href="index.php?m=Pages&p=ocation1">
+                                <a href="index.php?m=Pages&p=location1">
                                     <i class="si si-home"></i><span class="sidebar-mini-hide">Lokasi 1</span>
                                 </a>
                             </li>

@@ -386,7 +386,7 @@
 
         $.ajax({
             type: "GET",
-            url: "http://localhost:7788/smartmonitoring/api/monitoring/GetData.php?lokasi_id=3",
+            url: "http://161.117.253.209/smartmonitoring/api/monitoring/GetData.php?lokasi_id=3",
             contentType: "application/json; charset=utf-8",
             data: {},
             dataType: "json",
@@ -417,7 +417,7 @@
 
         $.ajax({
             type: "GET",
-            url: "http://localhost:7788/smartmonitoring/api/chart/GetDataMingguan.php?lokasi_id=3&kategori=" + document.getElementById('ddlFilterLineChart1').value,
+            url: "http://161.117.253.209/smartmonitoring/api/chart/GetDataMingguan.php?lokasi_id=3&kategori=" + document.getElementById('ddlFilterLineChart1').value,
             contentType: "application/json; charset=utf-8",
             data: {},
             dataType: "json",
@@ -432,7 +432,7 @@
 
         $.ajax({
             type: "GET",
-            url: "http://localhost:7788/smartmonitoring/api/chart/GetDataTahunan.php?lokasi_id=3&kategori=" + document.getElementById('ddlFilterLineChart1').value,
+            url: "http://161.117.253.209/smartmonitoring/api/chart/GetDataTahunan.php?lokasi_id=3&kategori=" + document.getElementById('ddlFilterLineChart1').value,
             contentType: "application/json; charset=utf-8",
             data: {},
             dataType: "json",
