@@ -1,5 +1,5 @@
-# SmartMonitoring-PHP-NET Core-React-Native
-Website : PHP 7, ASP.Net Core 3.1
+# SmartMonitoring-PHP-React-Native
+Website : PHP
 Mobile : React Native
 Database : MySQL
 
